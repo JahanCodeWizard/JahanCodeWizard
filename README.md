@@ -1,4 +1,4 @@
-- I’m @JahanCodeWizard.
+- I’m @JahanCodeWizard, also known as Hexenmeister.
 - my CS and Programming journey began so many years before, and i started with the basic programming language. It was a good and memorable experience.
 - I’m interested in Automations
 - GNU/Linux is awesome and that's a fact. if you don't feel the same about it, then i feel pity for you. also i don't care at the same time about how YOU or Others might feel, so don't be touched.
